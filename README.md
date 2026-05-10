@@ -37,5 +37,5 @@
 
 ###
 - 🌱 Estudando CSS
-- 📫 Contate-me no emal: Ericles45alves@gmail.com
+- 📫 Contate-me no email: Ericles45alves@gmail.com
 
