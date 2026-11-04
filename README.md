@@ -51,11 +51,3 @@
 | **Point da Pizza** | Cardápio online com pizza de até 2 sabores e pedido pelo WhatsApp | HTML · CSS · JavaScript | [Ver site](https://ericlesalves13.github.io/point-da-pizza/) · [Código](https://github.com/EriclesAlves13/point-da-pizza) |
 | **Painel da Padaria** | Dashboard de vendas e estoque sincronizado em tempo real | React · Firebase | [Código](https://github.com/EriclesAlves13/painel-padaria) |
 
----
-
-### 📊 Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EriclesAlves13&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriclesAlves13&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
