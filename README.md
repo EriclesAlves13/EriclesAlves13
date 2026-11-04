@@ -1,41 +1,61 @@
+<h1 align="center">Olá, eu sou o Ericles 👋</h1>
+<h3 align="center">Desenvolvedor Full Stack · Maranguape, CE</h3>
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<p align="center">
+  <a href="https://ericlesalves13.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ericles-alves-111817395"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ericles45alves@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5585921476511"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ericlesalves_4/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#0d0502&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+### 🚀 Sobre mim
 
-###
+- 💻 Crio sites e sistemas web para pequenos negócios: catálogos, cardápios com pedido no WhatsApp e sistemas de gestão
+- 📚 Cursando **Full Stack Web com Node, JavaScript e TypeScript**
+- 🎯 Buscando minha primeira oportunidade como **Trainee ou Desenvolvedor Júnior (remoto)**
+- 📫 Fale comigo: **ericles45alves@gmail.com**
 
-<div align="center">
-  <img height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db7c6753-956b-4327-8db9-27975ad43253/db2bpd5-0b5cd9ea-53cc-409c-91bb-1651be393b6c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kYjdjNjc1My05NTZiLTQzMjctOGRiOS0yNzk3NWFkNDMyNTMvZGIyYnBkNS0wYjVjZDllYS01M2NjLTQwOWMtOTFiYi0xNjUxYmUzOTNiNmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6NzzgMkFJoy8cQo-lgye7nP85dmlCxiK2o2nW_36rbA"  />
-</div>
+---
 
-###
+### 🛠️ Tecnologias
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
+### 📂 Projetos em destaque
 
-###
+| Projeto | O que é | Tecnologias | Link |
+|---|---|---|---|
+| **Padaria Gestão** | Sistema de gestão: estoque, fechamento da produção e relatórios semanais | Next.js · Prisma · PostgreSQL | [Ver site](https://padaria-gestao.vercel.app/) |
+| **BELLIV** | Catálogo de moda feminina com painel administrativo e pedido pelo WhatsApp | React · Vite · Supabase | [Ver site](https://catalogo-belliv.netlify.app/) |
+| **Top Burger Maranguape** | Site de hamburgueria com cardápio, carrinho e pedido pelo WhatsApp | React · Vite · Tailwind | [Ver site](https://topburger-maranguape.netlify.app/) |
+| **Point da Pizza** | Cardápio online com pizza de até 2 sabores e pedido pelo WhatsApp | HTML · CSS · JavaScript | [Ver site](https://ericlesalves13.github.io/point-da-pizza/) · [Código](https://github.com/EriclesAlves13/point-da-pizza) |
+| **Painel da Padaria** | Dashboard de vendas e estoque sincronizado em tempo real | React · Firebase | [Código](https://github.com/EriclesAlves13/painel-padaria) |
 
+---
 
-###
-- 🌱 Estudando CSS
-- 📫 Contate-me no email: Ericles45alves@gmail.com
+### 📊 Estatísticas
 
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EriclesAlves13&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriclesAlves13&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+</p>
