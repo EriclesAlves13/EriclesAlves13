@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380">
+  <style>
+    text{font:15px 'Courier New',Consolas,monospace}
+    .p{fill:#ff2bd6;font-weight:700}
+    .c{fill:#ffffff}
+    .o{fill:#9fe8ff}
+    .k{fill:#ffd23f}
+    .d{fill:#b14cff}
+    .l{opacity:0;animation:show .01s forwards}
+    @keyframes show{to{opacity:1}}
+    .cv{fill:#140a2b;transform-box:fill-box;transform-origin:right;animation:type 1s forwards}
+    @keyframes type{to{transform:scaleX(0)}}
+    .cur{fill:#00f0ff;opacity:0;animation:show .01s 10.6s forwards,blink 1s steps(1) 10.6s infinite}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+
+  <rect x="1" y="1" width="758" height="378" rx="14" fill="#140a2b" stroke="#b14cff" stroke-opacity=".6" stroke-width="2"/>
+  <rect x="1" y="1" width="758" height="38" rx="14" fill="#22114a"/>
+  <rect x="1" y="26" width="758" height="13" fill="#22114a"/>
+  <circle cx="26" cy="20" r="6.5" fill="#ff5f57"/>
+  <circle cx="48" cy="20" r="6.5" fill="#febc2e"/>
+  <circle cx="70" cy="20" r="6.5" fill="#28c840"/>
+  <text x="380" y="25" text-anchor="middle" fill="#d9c8ff" style="font-size:13px">ericles@devmania: ~</text>
+
+  <!-- 1: whoami -->
+  <g class="l" style="animation-delay:.4s">
+    <text x="24" y="72"><tspan class="p">❯ </tspan><tspan class="c">whoami</tspan></text>
+    <rect class="cv" x="44" y="58" width="60" height="20" style="animation-delay:.4s;animation-duration:.6s;animation-timing-function:steps(6)"/>
+  </g>
+  <text class="l o" x="24" y="96" style="animation-delay:1.2s">Ericles Alves — <tspan class="d">devmania</tspan> 🚀</text>
+
+  <!-- 2: sobre -->
+  <g class="l" style="animation-delay:2s">
+    <text x="24" y="132"><tspan class="p">❯ </tspan><tspan class="c">cat sobre.txt</tspan></text>
+    <rect class="cv" x="44" y="118" width="125" height="20" style="animation-delay:2s;animation-duration:1s;animation-timing-function:steps(13)"/>
+  </g>
+  <text class="l o" x="24" y="156" style="animation-delay:3.2s">Dev Full Stack em formação · Node · JavaScript · TypeScript</text>
+  <text class="l o" x="24" y="178" style="animation-delay:3.5s">Maranguape, Ceará · Brasil</text>
+
+  <!-- 3: projetos -->
+  <g class="l" style="animation-delay:4.3s">
+    <text x="24" y="214"><tspan class="p">❯ </tspan><tspan class="c">ls projetos/</tspan></text>
+    <rect class="cv" x="44" y="200" width="115" height="20" style="animation-delay:4.3s;animation-duration:.9s;animation-timing-function:steps(12)"/>
+  </g>
+  <text class="l k" x="24" y="238" style="animation-delay:5.4s">painel-padaria/   pokeuniverse/   galaxy-love/   sites-front-end/</text>
+
+  <!-- 4: objetivo -->
+  <g class="l" style="animation-delay:6.3s">
+    <text x="24" y="274"><tspan class="p">❯ </tspan><tspan class="c">echo $OBJETIVO</tspan></text>
+    <rect class="cv" x="44" y="260" width="135" height="20" style="animation-delay:6.3s;animation-duration:1s;animation-timing-function:steps(14)"/>
+  </g>
+  <text class="l o" x="24" y="298" style="animation-delay:7.5s">Vaga de <tspan class="k">trainee / estágio remoto</tspan> em desenvolvimento</text>
+
+  <!-- 5: status -->
+  <g class="l" style="animation-delay:8.4s">
+    <text x="24" y="334"><tspan class="p">❯ </tspan><tspan class="c">git status</tspan></text>
+    <rect class="cv" x="44" y="320" width="95" height="20" style="animation-delay:8.4s;animation-duration:.8s;animation-timing-function:steps(10)"/>
+  </g>
+  <text class="l" x="24" y="358" fill="#28c840" style="animation-delay:9.6s">✔ aprendendo todo dia · aberto a oportunidades</text>
+  <rect class="cur" x="446" y="345" width="9" height="17"/>
+</svg>
